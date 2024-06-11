@@ -42,7 +42,7 @@
   "devDependencies": {},
   "scripts": {
     "install-server": "cd backend && npm install",
-    "start-server": "cd backend && node app.js",
+    "start-server": "cd backend && node index.js",
     "install-client": "cd notesapp && npm install",
     "build-client": "cd notesapp && npm run build",
     "start-client": "cd notesapp && npm run start"
